@@ -22,4 +22,4 @@ Make a small code or README change to simulate a real PR
 ▶️ How to Run
 
 Push changes to a new branch → Open Pull Request to main
-GitHub Actions will auto-trigger the workflow
+GitHub Actions will auto-trigger the workflow.
