@@ -14,7 +14,7 @@ Triggering workflows on pull requests (on: pull_request)
 Automating PR checks before merging
 Using conditional logic for branch-based actions
 
-🔒 Setup Required
+🔒 Setup Required!!!
 
 Create a new branch and raise a pull request to main
 Make a small code or README change to simulate a real PR
@@ -22,4 +22,4 @@ Make a small code or README change to simulate a real PR
 ▶️ How to Run
 
 Push changes to a new branch → Open Pull Request to main
-GitHub Actions will auto-trigger the workflow.
+GitHub Actions will auto-trigger the workflow
