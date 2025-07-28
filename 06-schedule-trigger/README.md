@@ -20,4 +20,4 @@ Uses cron expression like 0 0 * * * (every midnight UTC)
 
 ▶️ How to Run
 
-Wait for scheduled time OR temporarily trigger with workflow_dispatch for testing
+Wait for scheduled time OR temporarily trigger with workflow_dispatch for testing.
