@@ -17,3 +17,4 @@ Auto-deploy a static HTML page using GitHub Pages + GitHub Actions.
 
 ▶️ How to Deploy
 Push changes in 02-github-StaticWebsite/ to the main branch.
+
