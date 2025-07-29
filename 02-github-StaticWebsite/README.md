@@ -10,7 +10,7 @@ Auto-deploy a static HTML page using GitHub Pages + GitHub Actions.
     └── workflows/
         └── 02-static-site.yml
 
-🎯 What You'll Learn
+🎯 What You'll Learn?
 - GitHub Pages setup and static site hosting
 - Deployment automation using workflows
 - Folder-based trigger using 'paths'
