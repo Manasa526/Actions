@@ -1,0 +1,17 @@
+name: Scheduled Workflow Example
+
+on:
+  schedule:
+    - cron: '40 14 * * *'  # Runs every day at 08:10 IST
+  workflow_dispatch:
+
+jobs:
+  scheduled-task:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📅 Echo scheduled time
+        run: echo "⏰ This is your scheduled job running at $(date -u)"
+
+      - name: ✅ Status confirmation
+        run: echo "✅ Cron job completed successfully!"
